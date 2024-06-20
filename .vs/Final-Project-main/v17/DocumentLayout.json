@@ -1,0 +1,683 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IydeParfume\\IydeParfume\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\UsageTimeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\UsageTimeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\SupportPaymentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\SupportPaymentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\SupportOrderController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\SupportOrderController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\SubNavbarController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\SubNavbarController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\SeasonController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\SeasonController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\ProductImageController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\ProductImageController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\NavbarController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\NavbarController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\ContactController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\ContactController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\CategoryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\CategoryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\BrandController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\BrandController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\BlogDisplayController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\BlogDisplayController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\AboutUsImageController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\AboutUsImageController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\AboutUsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\AboutUsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IydeParfume\\IydeParfume\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IydeParfume\\IydeParfume\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IydeParfume\\IydeParfume\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Extensions\\ModelBuilderExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IydeParfume\\IydeParfume\\Extensions\\ModelBuilderExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Database\\Configurations\\ContactConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IydeParfume\\IydeParfume\\Database\\Configurations\\ContactConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Database\\Configurations\\BlogConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IydeParfume\\IydeParfume\\Database\\Configurations\\BlogConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Database\\Configurations\\BasketConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IydeParfume\\IydeParfume\\Database\\Configurations\\BasketConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Database\\Configurations\\AboutUsImageConfiguration - Copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IydeParfume\\IydeParfume\\Database\\Configurations\\AboutUsImageConfiguration - Copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Database\\Configurations\\AboutUsConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IydeParfume\\IydeParfume\\Database\\Configurations\\AboutUsConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Database\\DataContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IydeParfume\\IydeParfume\\Database\\DataContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Exceptions\\IdentityCookieException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IydeParfume\\IydeParfume\\Exceptions\\IdentityCookieException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Infrastructure\\Configurations\\RegisterCustomServicesConfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IydeParfume\\IydeParfume\\Infrastructure\\Configurations\\RegisterCustomServicesConfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Infrastructure\\Configurations\\OptionConfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IydeParfume\\IydeParfume\\Infrastructure\\Configurations\\OptionConfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Infrastructure\\Configurations\\MvcConfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IydeParfume\\IydeParfume\\Infrastructure\\Configurations\\MvcConfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Infrastructure\\Configurations\\FluentValidationConfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IydeParfume\\IydeParfume\\Infrastructure\\Configurations\\FluentValidationConfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Infrastructure\\Configurations\\DatabaseConfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IydeParfume\\IydeParfume\\Infrastructure\\Configurations\\DatabaseConfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Infrastructure\\Extensions\\ServiceCollectionExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IydeParfume\\IydeParfume\\Infrastructure\\Extensions\\ServiceCollectionExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Infrastructure\\Extensions\\AppBuilderExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IydeParfume\\IydeParfume\\Infrastructure\\Extensions\\AppBuilderExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Contracts\\ProductPrice\\Price.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IydeParfume\\IydeParfume\\Contracts\\ProductPrice\\Price.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Contracts\\Identity\\RoleNames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IydeParfume\\IydeParfume\\Contracts\\Identity\\RoleNames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Contracts\\Identity\\CustomClaimNames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IydeParfume\\IydeParfume\\Contracts\\Identity\\CustomClaimNames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Contracts\\File\\UploadDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IydeParfume\\IydeParfume\\Contracts\\File\\UploadDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Contracts\\Email\\MessageDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IydeParfume\\IydeParfume\\Contracts\\Email\\MessageDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Contracts\\Email\\EmailMessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IydeParfume\\IydeParfume\\Contracts\\Email\\EmailMessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Contracts\\Email\\EmailMessageKeyword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IydeParfume\\IydeParfume\\Contracts\\Email\\EmailMessageKeyword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "IydeParfume\\IydeParfume\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Properties\\launchSettings.json",
+              "RelativeToolTip": "IydeParfume\\IydeParfume\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T14:04:47.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SupportPaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\SupportPaymentController.cs",
+              "RelativeDocumentMoniker": "IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\SupportPaymentController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\SupportPaymentController.cs",
+              "RelativeToolTip": "IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\SupportPaymentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:53:17.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsageTimeController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\UsageTimeController.cs",
+              "RelativeDocumentMoniker": "IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\UsageTimeController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\UsageTimeController.cs",
+              "RelativeToolTip": "IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\UsageTimeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:53:16.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SupportOrderController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\SupportOrderController.cs",
+              "RelativeDocumentMoniker": "IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\SupportOrderController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\SupportOrderController.cs",
+              "RelativeToolTip": "IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\SupportOrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:53:15.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SubNavbarController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\SubNavbarController.cs",
+              "RelativeDocumentMoniker": "IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\SubNavbarController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\SubNavbarController.cs",
+              "RelativeToolTip": "IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\SubNavbarController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:53:15.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SeasonController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\SeasonController.cs",
+              "RelativeDocumentMoniker": "IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\SeasonController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\SeasonController.cs",
+              "RelativeToolTip": "IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\SeasonController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:53:14.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductImageController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\ProductImageController.cs",
+              "RelativeDocumentMoniker": "IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\ProductImageController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\ProductImageController.cs",
+              "RelativeToolTip": "IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\ProductImageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:53:13.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NavbarController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\NavbarController.cs",
+              "RelativeDocumentMoniker": "IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\NavbarController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\NavbarController.cs",
+              "RelativeToolTip": "IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\NavbarController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:53:13.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:53:12.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:53:11.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:53:11.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BlogDisplayController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\BlogDisplayController.cs",
+              "RelativeDocumentMoniker": "IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\BlogDisplayController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\BlogDisplayController.cs",
+              "RelativeToolTip": "IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\BlogDisplayController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:53:09.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AboutUsImageController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\AboutUsImageController.cs",
+              "RelativeDocumentMoniker": "IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\AboutUsImageController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\AboutUsImageController.cs",
+              "RelativeToolTip": "IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\AboutUsImageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:53:07.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AboutUsController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\AboutUsController.cs",
+              "RelativeDocumentMoniker": "IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\AboutUsController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\AboutUsController.cs",
+              "RelativeToolTip": "IydeParfume\\IydeParfume\\Areas\\Admin\\Controllers\\AboutUsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:53:06.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ContactConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Database\\Configurations\\ContactConfiguration.cs",
+              "RelativeDocumentMoniker": "IydeParfume\\IydeParfume\\Database\\Configurations\\ContactConfiguration.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Database\\Configurations\\ContactConfiguration.cs",
+              "RelativeToolTip": "IydeParfume\\IydeParfume\\Database\\Configurations\\ContactConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:34:11.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BlogConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Database\\Configurations\\BlogConfiguration.cs",
+              "RelativeDocumentMoniker": "IydeParfume\\IydeParfume\\Database\\Configurations\\BlogConfiguration.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Database\\Configurations\\BlogConfiguration.cs",
+              "RelativeToolTip": "IydeParfume\\IydeParfume\\Database\\Configurations\\BlogConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:34:11.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BasketConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Database\\Configurations\\BasketConfiguration.cs",
+              "RelativeDocumentMoniker": "IydeParfume\\IydeParfume\\Database\\Configurations\\BasketConfiguration.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Database\\Configurations\\BasketConfiguration.cs",
+              "RelativeToolTip": "IydeParfume\\IydeParfume\\Database\\Configurations\\BasketConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:34:10.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AboutUsImageConfiguration - Copy.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Database\\Configurations\\AboutUsImageConfiguration - Copy.cs",
+              "RelativeDocumentMoniker": "IydeParfume\\IydeParfume\\Database\\Configurations\\AboutUsImageConfiguration - Copy.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Database\\Configurations\\AboutUsImageConfiguration - Copy.cs",
+              "RelativeToolTip": "IydeParfume\\IydeParfume\\Database\\Configurations\\AboutUsImageConfiguration - Copy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:34:10.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AboutUsConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Database\\Configurations\\AboutUsConfiguration.cs",
+              "RelativeDocumentMoniker": "IydeParfume\\IydeParfume\\Database\\Configurations\\AboutUsConfiguration.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Database\\Configurations\\AboutUsConfiguration.cs",
+              "RelativeToolTip": "IydeParfume\\IydeParfume\\Database\\Configurations\\AboutUsConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:34:09.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ModelBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Extensions\\ModelBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "IydeParfume\\IydeParfume\\Extensions\\ModelBuilderExtensions.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Extensions\\ModelBuilderExtensions.cs",
+              "RelativeToolTip": "IydeParfume\\IydeParfume\\Extensions\\ModelBuilderExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:34:03.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\appsettings.json",
+              "RelativeDocumentMoniker": "IydeParfume\\IydeParfume\\appsettings.json",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\appsettings.json",
+              "RelativeToolTip": "IydeParfume\\IydeParfume\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T13:21:39.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Program.cs",
+              "RelativeDocumentMoniker": "IydeParfume\\IydeParfume\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Program.cs",
+              "RelativeToolTip": "IydeParfume\\IydeParfume\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:30:25.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "IydeParfume\\IydeParfume\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\appsettings.Development.json",
+              "RelativeToolTip": "IydeParfume\\IydeParfume\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T13:31:22.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IdentityCookieException.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Exceptions\\IdentityCookieException.cs",
+              "RelativeDocumentMoniker": "IydeParfume\\IydeParfume\\Exceptions\\IdentityCookieException.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Exceptions\\IdentityCookieException.cs",
+              "RelativeToolTip": "IydeParfume\\IydeParfume\\Exceptions\\IdentityCookieException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:34:05.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RegisterCustomServicesConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Infrastructure\\Configurations\\RegisterCustomServicesConfigurations.cs",
+              "RelativeDocumentMoniker": "IydeParfume\\IydeParfume\\Infrastructure\\Configurations\\RegisterCustomServicesConfigurations.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Infrastructure\\Configurations\\RegisterCustomServicesConfigurations.cs",
+              "RelativeToolTip": "IydeParfume\\IydeParfume\\Infrastructure\\Configurations\\RegisterCustomServicesConfigurations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:34:00.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OptionConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Infrastructure\\Configurations\\OptionConfigurations.cs",
+              "RelativeDocumentMoniker": "IydeParfume\\IydeParfume\\Infrastructure\\Configurations\\OptionConfigurations.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Infrastructure\\Configurations\\OptionConfigurations.cs",
+              "RelativeToolTip": "IydeParfume\\IydeParfume\\Infrastructure\\Configurations\\OptionConfigurations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:33:55.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MvcConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Infrastructure\\Configurations\\MvcConfigurations.cs",
+              "RelativeDocumentMoniker": "IydeParfume\\IydeParfume\\Infrastructure\\Configurations\\MvcConfigurations.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Infrastructure\\Configurations\\MvcConfigurations.cs",
+              "RelativeToolTip": "IydeParfume\\IydeParfume\\Infrastructure\\Configurations\\MvcConfigurations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:33:53.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FluentValidationConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Infrastructure\\Configurations\\FluentValidationConfigurations.cs",
+              "RelativeDocumentMoniker": "IydeParfume\\IydeParfume\\Infrastructure\\Configurations\\FluentValidationConfigurations.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Infrastructure\\Configurations\\FluentValidationConfigurations.cs",
+              "RelativeToolTip": "IydeParfume\\IydeParfume\\Infrastructure\\Configurations\\FluentValidationConfigurations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:33:51.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DatabaseConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Infrastructure\\Configurations\\DatabaseConfigurations.cs",
+              "RelativeDocumentMoniker": "IydeParfume\\IydeParfume\\Infrastructure\\Configurations\\DatabaseConfigurations.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Infrastructure\\Configurations\\DatabaseConfigurations.cs",
+              "RelativeToolTip": "IydeParfume\\IydeParfume\\Infrastructure\\Configurations\\DatabaseConfigurations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:33:50.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Database\\DataContext.cs",
+              "RelativeDocumentMoniker": "IydeParfume\\IydeParfume\\Database\\DataContext.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Database\\DataContext.cs",
+              "RelativeToolTip": "IydeParfume\\IydeParfume\\Database\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:32:15.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "IydeParfume\\IydeParfume\\Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "IydeParfume\\IydeParfume\\Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:33:46.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AppBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Infrastructure\\Extensions\\AppBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "IydeParfume\\IydeParfume\\Infrastructure\\Extensions\\AppBuilderExtensions.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Infrastructure\\Extensions\\AppBuilderExtensions.cs",
+              "RelativeToolTip": "IydeParfume\\IydeParfume\\Infrastructure\\Extensions\\AppBuilderExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:33:45.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Price.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Contracts\\ProductPrice\\Price.cs",
+              "RelativeDocumentMoniker": "IydeParfume\\IydeParfume\\Contracts\\ProductPrice\\Price.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Contracts\\ProductPrice\\Price.cs",
+              "RelativeToolTip": "IydeParfume\\IydeParfume\\Contracts\\ProductPrice\\Price.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:32:12.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RoleNames.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Contracts\\Identity\\RoleNames.cs",
+              "RelativeDocumentMoniker": "IydeParfume\\IydeParfume\\Contracts\\Identity\\RoleNames.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Contracts\\Identity\\RoleNames.cs",
+              "RelativeToolTip": "IydeParfume\\IydeParfume\\Contracts\\Identity\\RoleNames.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:32:08.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CustomClaimNames.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Contracts\\Identity\\CustomClaimNames.cs",
+              "RelativeDocumentMoniker": "IydeParfume\\IydeParfume\\Contracts\\Identity\\CustomClaimNames.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Contracts\\Identity\\CustomClaimNames.cs",
+              "RelativeToolTip": "IydeParfume\\IydeParfume\\Contracts\\Identity\\CustomClaimNames.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:32:07.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UploadDirectory.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Contracts\\File\\UploadDirectory.cs",
+              "RelativeDocumentMoniker": "IydeParfume\\IydeParfume\\Contracts\\File\\UploadDirectory.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Contracts\\File\\UploadDirectory.cs",
+              "RelativeToolTip": "IydeParfume\\IydeParfume\\Contracts\\File\\UploadDirectory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:32:04.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MessageDto.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Contracts\\Email\\MessageDto.cs",
+              "RelativeDocumentMoniker": "IydeParfume\\IydeParfume\\Contracts\\Email\\MessageDto.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Contracts\\Email\\MessageDto.cs",
+              "RelativeToolTip": "IydeParfume\\IydeParfume\\Contracts\\Email\\MessageDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:32:01.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EmailMessages.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Contracts\\Email\\EmailMessages.cs",
+              "RelativeDocumentMoniker": "IydeParfume\\IydeParfume\\Contracts\\Email\\EmailMessages.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Contracts\\Email\\EmailMessages.cs",
+              "RelativeToolTip": "IydeParfume\\IydeParfume\\Contracts\\Email\\EmailMessages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:31:57.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EmailMessageKeyword.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Contracts\\Email\\EmailMessageKeyword.cs",
+              "RelativeDocumentMoniker": "IydeParfume\\IydeParfume\\Contracts\\Email\\EmailMessageKeyword.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Final-Project-main\\Final-Project-main\\IydeParfume\\IydeParfume\\Contracts\\Email\\EmailMessageKeyword.cs",
+              "RelativeToolTip": "IydeParfume\\IydeParfume\\Contracts\\Email\\EmailMessageKeyword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:31:54.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
