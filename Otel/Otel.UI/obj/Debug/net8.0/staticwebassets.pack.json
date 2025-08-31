@@ -1,0 +1,945 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Otel.UI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Otel.UI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\css\\gijgo.css",
+      "PackagePath": "staticwebassets\\css\\gijgo.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\css\\slicknav.css",
+      "PackagePath": "staticwebassets\\css\\slicknav.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\css\\style.map",
+      "PackagePath": "staticwebassets\\css\\style.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\css\\theme-default.css",
+      "PackagePath": "staticwebassets\\css\\theme-default.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\css\\theme-default.map",
+      "PackagePath": "staticwebassets\\css\\theme-default.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\fonts\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\fonts\\flaticon.css",
+      "PackagePath": "staticwebassets\\fonts\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\fonts\\gijgo-material.eot",
+      "PackagePath": "staticwebassets\\fonts\\gijgo-material.eot"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\fonts\\gijgo-material.svg",
+      "PackagePath": "staticwebassets\\fonts\\gijgo-material.svg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\fonts\\gijgo-material.ttf",
+      "PackagePath": "staticwebassets\\fonts\\gijgo-material.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\fonts\\gijgo-material.woff",
+      "PackagePath": "staticwebassets\\fonts\\gijgo-material.woff"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\about\\1.png",
+      "PackagePath": "staticwebassets\\img\\about\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\about\\2.png",
+      "PackagePath": "staticwebassets\\img\\about\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\about\\about_1.png",
+      "PackagePath": "staticwebassets\\img\\about\\about_1.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\about\\about_2.png",
+      "PackagePath": "staticwebassets\\img\\about\\about_2.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\banner\\about_banner.png",
+      "PackagePath": "staticwebassets\\img\\banner\\about_banner.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\banner\\banner.png",
+      "PackagePath": "staticwebassets\\img\\banner\\banner.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\banner\\banner2.png",
+      "PackagePath": "staticwebassets\\img\\banner\\banner2.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\banner\\bradcam.png",
+      "PackagePath": "staticwebassets\\img\\banner\\bradcam.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\banner\\bradcam2.png",
+      "PackagePath": "staticwebassets\\img\\banner\\bradcam2.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\banner\\bradcam3.png",
+      "PackagePath": "staticwebassets\\img\\banner\\bradcam3.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\blog\\author.png",
+      "PackagePath": "staticwebassets\\img\\blog\\author.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\blog\\blog_1.png",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_1.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\blog\\blog_2.png",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_2.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\blog\\blog_3.png",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_3.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\blog\\blog_4.png",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_4.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\blog\\learn_about_bg.png",
+      "PackagePath": "staticwebassets\\img\\blog\\learn_about_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\blog\\single_blog_1.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_1.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\blog\\single_blog_2.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_2.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\blog\\single_blog_3.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_3.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\blog\\single_blog_4.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_4.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\blog\\single_blog_5.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_5.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\blog\\slide_thumb_1.png",
+      "PackagePath": "staticwebassets\\img\\blog\\slide_thumb_1.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\comment\\comment_1.png",
+      "PackagePath": "staticwebassets\\img\\comment\\comment_1.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\comment\\comment_2.png",
+      "PackagePath": "staticwebassets\\img\\comment\\comment_2.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\comment\\comment_3.png",
+      "PackagePath": "staticwebassets\\img\\comment\\comment_3.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\elements\\a.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\elements\\a2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\a2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\primary-check.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\success-check.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\success-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\footer-logo.png",
+      "PackagePath": "staticwebassets\\img\\footer-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\instragram\\1.png",
+      "PackagePath": "staticwebassets\\img\\instragram\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\instragram\\2.png",
+      "PackagePath": "staticwebassets\\img\\instragram\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\instragram\\3.png",
+      "PackagePath": "staticwebassets\\img\\instragram\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\instragram\\4.png",
+      "PackagePath": "staticwebassets\\img\\instragram\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\instragram\\5.png",
+      "PackagePath": "staticwebassets\\img\\instragram\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\offers\\1.png",
+      "PackagePath": "staticwebassets\\img\\offers\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\offers\\2.png",
+      "PackagePath": "staticwebassets\\img\\offers\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\offers\\3.png",
+      "PackagePath": "staticwebassets\\img\\offers\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\post\\next.png",
+      "PackagePath": "staticwebassets\\img\\post\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\post\\post_1.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_1.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\post\\post_10.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_10.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\post\\post_2.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_2.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\post\\post_3.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_3.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\post\\post_4.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_4.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\post\\post_5.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_5.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\post\\post_6.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_6.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\post\\post_7.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_7.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\post\\post_8.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_8.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\post\\post_9.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_9.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\post\\preview.png",
+      "PackagePath": "staticwebassets\\img\\post\\preview.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\rooms\\1.png",
+      "PackagePath": "staticwebassets\\img\\rooms\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\rooms\\2.png",
+      "PackagePath": "staticwebassets\\img\\rooms\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\rooms\\3.png",
+      "PackagePath": "staticwebassets\\img\\rooms\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\rooms\\4.png",
+      "PackagePath": "staticwebassets\\img\\rooms\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\img\\video\\video.png",
+      "PackagePath": "staticwebassets\\img\\video\\video.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\js\\ajax-form.js",
+      "PackagePath": "staticwebassets\\js\\ajax-form.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\js\\contact.js",
+      "PackagePath": "staticwebassets\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\js\\gijgo.min.js",
+      "PackagePath": "staticwebassets\\js\\gijgo.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\js\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\js\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\js\\jquery.form.js",
+      "PackagePath": "staticwebassets\\js\\jquery.form.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\js\\jquery.slicknav.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slicknav.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\js\\mail-script.js",
+      "PackagePath": "staticwebassets\\js\\mail-script.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\js\\nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\js\\scrollIt.js",
+      "PackagePath": "staticwebassets\\js\\scrollIt.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\js\\vendor\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\js\\vendor\\modernizr-3.5.0.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\modernizr-3.5.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\scss\\_about.scss",
+      "PackagePath": "staticwebassets\\scss\\_about.scss"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\scss\\_blog.scss",
+      "PackagePath": "staticwebassets\\scss\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\scss\\_blog_part.scss",
+      "PackagePath": "staticwebassets\\scss\\_blog_part.scss"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\scss\\_bradcam.scss",
+      "PackagePath": "staticwebassets\\scss\\_bradcam.scss"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\scss\\_btn.scss",
+      "PackagePath": "staticwebassets\\scss\\_btn.scss"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\scss\\_contact.scss",
+      "PackagePath": "staticwebassets\\scss\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\scss\\_elements.scss",
+      "PackagePath": "staticwebassets\\scss\\_elements.scss"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\scss\\_extend.scss",
+      "PackagePath": "staticwebassets\\scss\\_extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\scss\\_header.scss",
+      "PackagePath": "staticwebassets\\scss\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\scss\\_offers.scss",
+      "PackagePath": "staticwebassets\\scss\\_offers.scss"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\scss\\_responsive.scss",
+      "PackagePath": "staticwebassets\\scss\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\scss\\_section_title.scss",
+      "PackagePath": "staticwebassets\\scss\\_section_title.scss"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\scss\\_slick-nav.scss",
+      "PackagePath": "staticwebassets\\scss\\_slick-nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\scss\\_slider.scss",
+      "PackagePath": "staticwebassets\\scss\\_slider.scss"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\scss\\_varriable.scss",
+      "PackagePath": "staticwebassets\\scss\\_varriable.scss"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\scss\\theme-default.scss",
+      "PackagePath": "staticwebassets\\scss\\theme-default.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Otel.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Otel.UI.props",
+      "PackagePath": "build\\Otel.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Otel.UI.props",
+      "PackagePath": "buildMultiTargeting\\Otel.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Otel.UI.props",
+      "PackagePath": "buildTransitive\\Otel.UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
