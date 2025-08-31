@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Otel.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7736383ee076c626506bb3179daab9be3cdb5f38")]
 [assembly: System.Reflection.AssemblyProductAttribute("Otel.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Otel.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,76 +3,108 @@
   "WorkspaceRootPath": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.DAL\\Migrations\\20250831162322_AppUsers Updated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Otel.DAL\\Migrations\\20250831162322_AppUsers Updated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\otel.dal\\datacontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|solutionrelative:otel.dal\\datacontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|c:\\users\\ahmed\\desktop\\otel\\otel\\otel.dal\\datacontext\\entities\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|solutionrelative:otel.dal\\datacontext\\entities\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4232D786-571E-494F-BD1A-0CFC328B9BF6}|Otel.UI\\Otel.UI.csproj|c:\\users\\ahmed\\desktop\\otel\\otel\\otel.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4232D786-571E-494F-BD1A-0CFC328B9BF6}|Otel.UI\\Otel.UI.csproj|solutionrelative:otel.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|c:\\users\\ahmed\\desktop\\otel\\otel\\otel.dal\\datacontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|solutionrelative:otel.dal\\datacontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4232D786-571E-494F-BD1A-0CFC328B9BF6}|Otel.UI\\Otel.UI.csproj|c:\\users\\ahmed\\desktop\\otel\\otel\\otel.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4232D786-571E-494F-BD1A-0CFC328B9BF6}|Otel.UI\\Otel.UI.csproj|solutionrelative:otel.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.DAL\\Migrations\\20250831150242_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Otel.DAL\\Migrations\\20250831150242_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|c:\\users\\ahmed\\desktop\\otel\\otel\\otel.dal\\datacontext\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|solutionrelative:otel.dal\\datacontext\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|c:\\users\\ahmed\\desktop\\otel\\otel\\otel.dal\\datacontext\\entities\\specialoffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|solutionrelative:otel.dal\\datacontext\\entities\\specialoffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|c:\\users\\ahmed\\desktop\\otel\\otel\\otel.dal\\datacontext\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|solutionrelative:otel.dal\\datacontext\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|c:\\users\\ahmed\\desktop\\otel\\otel\\otel.dal\\datacontext\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|solutionrelative:otel.dal\\datacontext\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|c:\\users\\ahmed\\desktop\\otel\\otel\\otel.dal\\datacontext\\entities\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|solutionrelative:otel.dal\\datacontext\\entities\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|c:\\users\\ahmed\\desktop\\otel\\otel\\otel.dal\\datacontext\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|solutionrelative:otel.dal\\datacontext\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|c:\\users\\ahmed\\desktop\\otel\\otel\\otel.dal\\datacontext\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|solutionrelative:otel.dal\\datacontext\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|c:\\users\\ahmed\\desktop\\otel\\otel\\otel.dal\\datacontext\\entities\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|solutionrelative:otel.dal\\datacontext\\entities\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|c:\\users\\ahmed\\desktop\\otel\\otel\\otel.dal\\datacontext\\entities\\roomstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|solutionrelative:otel.dal\\datacontext\\entities\\roomstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4232D786-571E-494F-BD1A-0CFC328B9BF6}|Otel.UI\\Otel.UI.csproj|c:\\users\\ahmed\\desktop\\otel\\otel\\otel.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4232D786-571E-494F-BD1A-0CFC328B9BF6}|Otel.UI\\Otel.UI.csproj|solutionrelative:otel.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4232D786-571E-494F-BD1A-0CFC328B9BF6}|Otel.UI\\Otel.UI.csproj|c:\\users\\ahmed\\desktop\\otel\\otel\\otel.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4232D786-571E-494F-BD1A-0CFC328B9BF6}|Otel.UI\\Otel.UI.csproj|C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\otel.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4232D786-571E-494F-BD1A-0CFC328B9BF6}|Otel.UI\\Otel.UI.csproj|solutionrelative:otel.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4232D786-571E-494F-BD1A-0CFC328B9BF6}|Otel.UI\\Otel.UI.csproj|c:\\users\\ahmed\\desktop\\otel\\otel\\otel.ui\\otel.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{4232D786-571E-494F-BD1A-0CFC328B9BF6}|Otel.UI\\Otel.UI.csproj|c:\\users\\ahmed\\desktop\\otel\\otel\\otel.ui\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4232D786-571E-494F-BD1A-0CFC328B9BF6}|Otel.UI\\Otel.UI.csproj|solutionrelative:otel.ui\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4232D786-571E-494F-BD1A-0CFC328B9BF6}|Otel.UI\\Otel.UI.csproj|c:\\users\\ahmed\\desktop\\otel\\otel\\otel.ui\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4232D786-571E-494F-BD1A-0CFC328B9BF6}|Otel.UI\\Otel.UI.csproj|solutionrelative:otel.ui\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4232D786-571E-494F-BD1A-0CFC328B9BF6}|Otel.UI\\Otel.UI.csproj|c:\\users\\ahmed\\desktop\\otel\\otel\\otel.ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4232D786-571E-494F-BD1A-0CFC328B9BF6}|Otel.UI\\Otel.UI.csproj|solutionrelative:otel.ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4232D786-571E-494F-BD1A-0CFC328B9BF6}|Otel.UI\\Otel.UI.csproj|c:\\users\\ahmed\\desktop\\otel\\otel\\otel.ui\\wwwroot\\css\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4232D786-571E-494F-BD1A-0CFC328B9BF6}|Otel.UI\\Otel.UI.csproj|solutionrelative:otel.ui\\wwwroot\\css\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4232D786-571E-494F-BD1A-0CFC328B9BF6}|Otel.UI\\Otel.UI.csproj|c:\\users\\ahmed\\desktop\\otel\\otel\\otel.ui\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4232D786-571E-494F-BD1A-0CFC328B9BF6}|Otel.UI\\Otel.UI.csproj|solutionrelative:otel.ui\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4232D786-571E-494F-BD1A-0CFC328B9BF6}|Otel.UI\\Otel.UI.csproj|C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\otel.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4232D786-571E-494F-BD1A-0CFC328B9BF6}|Otel.UI\\Otel.UI.csproj|solutionrelative:otel.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\otel.dal\\datacontext\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|solutionrelative:otel.dal\\datacontext\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4232D786-571E-494F-BD1A-0CFC328B9BF6}|Otel.UI\\Otel.UI.csproj|c:\\users\\ahmed\\desktop\\otel\\otel\\otel.ui\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4232D786-571E-494F-BD1A-0CFC328B9BF6}|Otel.UI\\Otel.UI.csproj|solutionrelative:otel.ui\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4232D786-571E-494F-BD1A-0CFC328B9BF6}|Otel.UI\\Otel.UI.csproj|c:\\users\\ahmed\\desktop\\otel\\otel\\otel.ui\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4232D786-571E-494F-BD1A-0CFC328B9BF6}|Otel.UI\\Otel.UI.csproj|solutionrelative:otel.ui\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4232D786-571E-494F-BD1A-0CFC328B9BF6}|Otel.UI\\Otel.UI.csproj|C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\otel.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4232D786-571E-494F-BD1A-0CFC328B9BF6}|Otel.UI\\Otel.UI.csproj|solutionrelative:otel.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\otel.dal\\datacontext\\entities\\specialoffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|solutionrelative:otel.dal\\datacontext\\entities\\specialoffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\otel.dal\\datacontext\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|solutionrelative:otel.dal\\datacontext\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\otel.dal\\datacontext\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|solutionrelative:otel.dal\\datacontext\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\otel.dal\\datacontext\\entities\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|solutionrelative:otel.dal\\datacontext\\entities\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\otel.dal\\datacontext\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|solutionrelative:otel.dal\\datacontext\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\otel.dal\\datacontext\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|solutionrelative:otel.dal\\datacontext\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\otel.dal\\datacontext\\entities\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|solutionrelative:otel.dal\\datacontext\\entities\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\otel.dal\\datacontext\\entities\\roomstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|solutionrelative:otel.dal\\datacontext\\entities\\roomstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4232D786-571E-494F-BD1A-0CFC328B9BF6}|Otel.UI\\Otel.UI.csproj|C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\otel.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4232D786-571E-494F-BD1A-0CFC328B9BF6}|Otel.UI\\Otel.UI.csproj|solutionrelative:otel.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4232D786-571E-494F-BD1A-0CFC328B9BF6}|Otel.UI\\Otel.UI.csproj|C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\otel.ui\\otel.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4232D786-571E-494F-BD1A-0CFC328B9BF6}|Otel.UI\\Otel.UI.csproj|solutionrelative:otel.ui\\otel.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|c:\\users\\ahmed\\desktop\\otel\\otel\\otel.dal\\datacontext\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\otel.dal\\datacontext\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|solutionrelative:otel.dal\\datacontext\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.DAL\\Migrations\\20250831150242_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B64646C-B8FB-4569-8012-3131DA5FDB76}|Otel.DAL\\Otel.DAL.csproj|solutionrelative:Otel.DAL\\Migrations\\20250831150242_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,34 +114,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20250831150242_init.cs",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.DAL\\Migrations\\20250831150242_init.cs",
-              "RelativeDocumentMoniker": "Otel.DAL\\Migrations\\20250831150242_init.cs",
-              "ToolTip": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.DAL\\Migrations\\20250831150242_init.cs",
-              "RelativeToolTip": "Otel.DAL\\Migrations\\20250831150242_init.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T15:02:42.946Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppDbContextFactory.cs",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.DAL\\DataContext\\Entities\\AppDbContextFactory.cs",
-              "RelativeDocumentMoniker": "Otel.DAL\\DataContext\\Entities\\AppDbContextFactory.cs",
-              "ToolTip": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.DAL\\DataContext\\Entities\\AppDbContextFactory.cs",
-              "RelativeToolTip": "Otel.DAL\\DataContext\\Entities\\AppDbContextFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAACDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T15:01:52.518Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -132,33 +138,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\appsettings.json",
-              "RelativeDocumentMoniker": "Otel.UI\\appsettings.json",
-              "ToolTip": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\appsettings.json",
-              "RelativeToolTip": "Otel.UI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-31T14:57:40.703Z",
+              "DocumentIndex": 0,
+              "Title": "20250831162322_AppUsers Updated.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.DAL\\Migrations\\20250831162322_AppUsers Updated.cs",
+              "RelativeDocumentMoniker": "Otel.DAL\\Migrations\\20250831162322_AppUsers Updated.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.DAL\\Migrations\\20250831162322_AppUsers Updated.cs",
+              "RelativeToolTip": "Otel.DAL\\Migrations\\20250831162322_AppUsers Updated.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T16:23:22.67Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Otel.UI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Otel.UI\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T15:57:07.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.DAL\\DataContext\\Entities\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Otel.DAL\\DataContext\\Entities\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.DAL\\DataContext\\Entities\\AppDbContextFactory.cs",
+              "RelativeToolTip": "Otel.DAL\\DataContext\\Entities\\AppDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T15:01:52.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\Program.cs",
               "RelativeDocumentMoniker": "Otel.UI\\Program.cs",
               "ToolTip": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\Program.cs",
               "RelativeToolTip": "Otel.UI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-31T14:57:18.183Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "Work.cs",
               "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.DAL\\DataContext\\Entities\\Work.cs",
               "RelativeDocumentMoniker": "Otel.DAL\\DataContext\\Entities\\Work.cs",
@@ -166,12 +198,11 @@
               "RelativeToolTip": "Otel.DAL\\DataContext\\Entities\\Work.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T14:52:21.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-31T14:52:21.965Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.DAL\\DataContext\\Entities\\Employee.cs",
               "RelativeDocumentMoniker": "Otel.DAL\\DataContext\\Entities\\Employee.cs",
@@ -179,12 +210,11 @@
               "RelativeToolTip": "Otel.DAL\\DataContext\\Entities\\Employee.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T14:51:14.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-31T14:51:14.209Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "SpecialOffer.cs",
               "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.DAL\\DataContext\\Entities\\SpecialOffer.cs",
               "RelativeDocumentMoniker": "Otel.DAL\\DataContext\\Entities\\SpecialOffer.cs",
@@ -192,12 +222,11 @@
               "RelativeToolTip": "Otel.DAL\\DataContext\\Entities\\SpecialOffer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T14:46:57.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-31T14:46:57.107Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "Appointment.cs",
               "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.DAL\\DataContext\\Entities\\Appointment.cs",
               "RelativeDocumentMoniker": "Otel.DAL\\DataContext\\Entities\\Appointment.cs",
@@ -205,12 +234,128 @@
               "RelativeToolTip": "Otel.DAL\\DataContext\\Entities\\Appointment.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T14:43:40.298Z",
+              "WhenOpened": "2025-08-31T14:43:40.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.DAL\\DataContext\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "Otel.DAL\\DataContext\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.DAL\\DataContext\\Entities\\AppUser.cs",
+              "RelativeToolTip": "Otel.DAL\\DataContext\\Entities\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T14:41:12.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Otel.UI\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "Otel.UI\\Models\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T16:07:15.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Otel.UI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Otel.UI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAUwEwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T14:16:04.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.DAL\\DataContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Otel.DAL\\DataContext\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.DAL\\DataContext\\AppDbContext.cs",
+              "RelativeToolTip": "Otel.DAL\\DataContext\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T14:19:13.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "login.css",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\css\\login.css",
+              "RelativeDocumentMoniker": "Otel.UI\\wwwroot\\css\\login.css",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\css\\login.css",
+              "RelativeToolTip": "Otel.UI\\wwwroot\\css\\login.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-31T16:00:43.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Otel.UI\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Otel.UI\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T16:08:38.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "register.css",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\css\\register.css",
+              "RelativeDocumentMoniker": "Otel.UI\\wwwroot\\css\\register.css",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\wwwroot\\css\\register.css",
+              "RelativeToolTip": "Otel.UI\\wwwroot\\css\\register.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-31T16:15:40.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Otel.UI\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Otel.UI\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T16:01:04.069Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Otel.UI\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Otel.UI\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T16:09:10.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.DAL\\DataContext\\Entities\\Customer.cs",
               "RelativeDocumentMoniker": "Otel.DAL\\DataContext\\Entities\\Customer.cs",
@@ -218,25 +363,23 @@
               "RelativeToolTip": "Otel.DAL\\DataContext\\Entities\\Customer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T14:42:17.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-31T14:42:17.105Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.DAL\\DataContext\\Entities\\AppUser.cs",
-              "RelativeDocumentMoniker": "Otel.DAL\\DataContext\\Entities\\AppUser.cs",
-              "ToolTip": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.DAL\\DataContext\\Entities\\AppUser.cs",
-              "RelativeToolTip": "Otel.DAL\\DataContext\\Entities\\AppUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T14:41:12.849Z",
-              "EditorCaption": ""
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\appsettings.json",
+              "RelativeDocumentMoniker": "Otel.UI\\appsettings.json",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\appsettings.json",
+              "RelativeToolTip": "Otel.UI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-31T14:57:40.703Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "RoomType.cs",
               "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.DAL\\DataContext\\Entities\\RoomType.cs",
               "RelativeDocumentMoniker": "Otel.DAL\\DataContext\\Entities\\RoomType.cs",
@@ -244,25 +387,23 @@
               "RelativeToolTip": "Otel.DAL\\DataContext\\Entities\\RoomType.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T14:35:18.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-31T14:35:18.028Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.DAL\\DataContext\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Otel.DAL\\DataContext\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.DAL\\DataContext\\AppDbContext.cs",
-              "RelativeToolTip": "Otel.DAL\\DataContext\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "DocumentIndex": 25,
+              "Title": "20250831150242_init.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.DAL\\Migrations\\20250831150242_init.cs",
+              "RelativeDocumentMoniker": "Otel.DAL\\Migrations\\20250831150242_init.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.DAL\\Migrations\\20250831150242_init.cs",
+              "RelativeToolTip": "Otel.DAL\\Migrations\\20250831150242_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T14:19:13.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-31T15:02:42.946Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "RoomStatus.cs",
               "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.DAL\\DataContext\\Entities\\RoomStatus.cs",
               "RelativeDocumentMoniker": "Otel.DAL\\DataContext\\Entities\\RoomStatus.cs",
@@ -270,12 +411,11 @@
               "RelativeToolTip": "Otel.DAL\\DataContext\\Entities\\RoomStatus.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T14:37:10.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-31T14:37:10.456Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
               "Title": "Otel.UI",
               "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\Otel.UI.csproj",
               "RelativeDocumentMoniker": "Otel.UI\\Otel.UI.csproj",
@@ -283,12 +423,11 @@
               "RelativeToolTip": "Otel.UI\\Otel.UI.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-31T14:27:01.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-31T14:27:01.776Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.DAL\\DataContext\\Entities\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Otel.DAL\\DataContext\\Entities\\BaseEntity.cs",
@@ -296,12 +435,11 @@
               "RelativeToolTip": "Otel.DAL\\DataContext\\Entities\\BaseEntity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T14:23:53.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-31T14:23:53.869Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "Room.cs",
               "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.DAL\\DataContext\\Entities\\Room.cs",
               "RelativeDocumentMoniker": "Otel.DAL\\DataContext\\Entities\\Room.cs",
@@ -309,12 +447,11 @@
               "RelativeToolTip": "Otel.DAL\\DataContext\\Entities\\Room.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T14:23:37.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-31T14:23:37.826Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Otel.UI\\Views\\Home\\Index.cshtml",
@@ -322,21 +459,7 @@
               "RelativeToolTip": "Otel.UI\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-31T14:17:02.431Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Otel.UI\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ahmed\\Desktop\\Otel\\Otel\\Otel.UI\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Otel.UI\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-31T14:16:04.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-31T14:17:02.431Z"
             }
           ]
         },
